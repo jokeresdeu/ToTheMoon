@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 681561288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4393a919c501a42305ab147273b04263
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Graphics/Game/New Sprite Atlas.spriteatlas
+- Assets/Graphics/UI/Free Flat Home Icon.png
+- Assets/Graphics/Game/Square.png
+- Assets/Graphics/Game/car.png
+- Assets/Graphics/Game/heart_1.png
+- Assets/Graphics/Game/small_fragment.png
+- Assets/Graphics/UI/icon_blend.png
+- Assets/Graphics/Game/cloud.png
+- Assets/Graphics/UI/icon_retry.png
+- Assets/Graphics/Game/candy.png
+- Assets/Graphics/Game/figure.png
+- Assets/Graphics/Game/circle.png
+Dependencies: []

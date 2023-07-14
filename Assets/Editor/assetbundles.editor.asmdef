@@ -1,0 +1,17 @@
+{
+    "name": "AssetBundles",
+    "references": [
+        "GUID:7c65c02bfa68a499bad6682f6ac091bd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

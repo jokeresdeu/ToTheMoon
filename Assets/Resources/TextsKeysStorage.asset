@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5953342b6bdf41df859bc13b1e0b094f, type: 3}
+  m_Name: TextsKeysStorage
+  m_EditorClassIdentifier: 
+  _textKeyPairs:
+  - <Text>k__BackingField: Start Game
+    <Key>k__BackingField: 1
+  - <Text>k__BackingField: Player vs Player
+    <Key>k__BackingField: 2
+  - <Text>k__BackingField: Player vs Computer
+    <Key>k__BackingField: 3
+  - <Text>k__BackingField: Computer vs Computer
+    <Key>k__BackingField: 4
+  - <Text>k__BackingField: Player "X" Won!
+    <Key>k__BackingField: 5
+  - <Text>k__BackingField: Player "O" Won!
+    <Key>k__BackingField: 6
+  - <Text>k__BackingField: It's a Tie!
+    <Key>k__BackingField: 7
+  - <Text>k__BackingField: Player "X" Lose :(
+    <Key>k__BackingField: 8
+  - <Text>k__BackingField: Player "O" Lose :(
+    <Key>k__BackingField: 9
+  - <Text>k__BackingField: Do you want to play again?
+    <Key>k__BackingField: 10
+  - <Text>k__BackingField: Yes
+    <Key>k__BackingField: 11
+  - <Text>k__BackingField: No
+    <Key>k__BackingField: 12

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e08f0afd8cd421c953e9601ea19b10f, type: 3}
+  m_Name: ScreenViewStorage
+  m_EditorClassIdentifier: 
+  _views:
+  - <ScreenType>k__BackingField: 1
+    <ScreenView>k__BackingField: {fileID: 983436021759108237, guid: 3e25ed9359704490184dd207f61764d9,
+      type: 3}
+  - <ScreenType>k__BackingField: 2
+    <ScreenView>k__BackingField: {fileID: 8497285078362893262, guid: b38a7c4cd7937478baa8b234d9753a7d,
+      type: 3}
+  - <ScreenType>k__BackingField: 3
+    <ScreenView>k__BackingField: {fileID: -582024796498327860, guid: 2a7ddfd37aa5f4c449056560ef143174,
+      type: 3}

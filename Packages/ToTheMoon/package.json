@@ -1,0 +1,39 @@
+{
+  "name": "com.les.games.to.the.moon",
+  "displayName": "To The Moon",
+  "description": "Test task that will bring me to the moon",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "unityRelease": "0a12",
+  "dependencies": {
+    "net.tnrd.nsubstitute": {
+      "version": "https://github.com/Thundernerd/Unity3D-NSubstitute.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "eec6769f8e3f904c00755e1aa1f491088bd76d9f"
+    },
+    "com.unity.textmeshpro": {
+      "version": "2.1.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.27",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    }
+  },
+  "relatedPackages": {
+  }
+}

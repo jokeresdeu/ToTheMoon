@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2118077018
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2d892d8df991da54b26e1e6b48e2442
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee559438b289c9b153dca2bc032cfd21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8dd51d29965c9d04599a2fdc8a833c6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3a9957cce6a41d683515ad8bd09b471, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c53958d9e354f179ae106217833f46d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Game/Alternative/Cross.prefab
+- Assets/Prefabs/Game/Alternative/Circle.prefab
+- Assets/Prefabs/Game/Alternative/BackGround.prefab
+Dependencies: []

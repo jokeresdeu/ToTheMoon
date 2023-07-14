@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af620c7f65b244fc8c1695aaca7c58e9, type: 3}
+  m_Name: FigureColorsStorage
+  m_EditorClassIdentifier: 
+  _crossColor: {r: 0.31305623, g: 0.35686624, b: 0.6320754, a: 1}
+  _circleColor: {r: 0.6509434, g: 0.2732734, b: 0.2732734, a: 1}
+  _defaultColor: {r: 0.81960785, g: 0.81960785, b: 0.81960785, a: 1}

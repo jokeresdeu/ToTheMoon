@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a16628f4bda248e78d9743a8fe3a3cff, type: 3}
+  m_Name: GameModeSelectionStorage
+  m_EditorClassIdentifier: 
+  <GameModesSelectionSettings>k__BackingField:
+  - <GameMode>k__BackingField: 1
+    <TextKey>k__BackingField: 2
+  - <GameMode>k__BackingField: 2
+    <TextKey>k__BackingField: 3
+  - <GameMode>k__BackingField: 3
+    <TextKey>k__BackingField: 4
