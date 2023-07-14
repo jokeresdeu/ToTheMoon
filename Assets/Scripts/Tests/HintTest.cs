@@ -34,7 +34,7 @@ namespace Tests
             Assert.IsTrue(solver.GetPositionToPlace() == position);
         }
 
-        [Test, Order(0)]
+        [Test, Order(1)]
         public void SinglePlayerGameController_ShowHint_calls_play_hit_from_IGridView()
         {
             var gridView = Substitute.For<IGridView>();
@@ -42,9 +42,8 @@ namespace Tests
             gameController.ShowHint();
             gridView.Received(1).PlayHint(Arg.Any<int>());
         }
-
-        [TestCaseSource(nameof(_positions))]
-        [Test, Order(0)]
+        
+        [Test, Order(2)]
         public void SinglePlayerGameMenuScreenModel_ShowHint_calls_play_hit_from_IGridView()
         {
             var gridView = Substitute.For<IGridView>();
